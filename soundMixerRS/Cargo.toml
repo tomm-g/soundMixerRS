@@ -8,3 +8,6 @@ edition = "2021"
 [dependencies]
 cpal = "0.15.3"
 rodio = "0.20.1"
+tui = "0.19"
+crossterm = "0.25"
+clap = "4.5.38"
