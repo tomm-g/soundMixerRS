@@ -1,0 +1,9 @@
+/Users/tomguinevan/Documents/Code/Rust/SoundMixerRS/soundMixerRS/target/debug/build/clang-sys-dab78ed29d08d382/build_script_build-dab78ed29d08d382: /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs
+
+/Users/tomguinevan/Documents/Code/Rust/SoundMixerRS/soundMixerRS/target/debug/build/clang-sys-dab78ed29d08d382/build_script_build-dab78ed29d08d382.d: /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs /Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs
+
+/Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs:
+/Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs:
+/Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs:
+/Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs:
+/Users/tomguinevan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs:
